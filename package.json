@@ -1,0 +1,22 @@
+{
+  "name": "pdf-preview-umi-issue",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "umi dev",
+    "build": "umi build"
+  },
+  "dependencies": {
+    "@open-file-viewer/core": "^0.1.6",
+    "@open-file-viewer/react": "^0.1.6",
+    "pdfjs-dist": "4.10.38",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "umi": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.0.0"
+  }
+}
